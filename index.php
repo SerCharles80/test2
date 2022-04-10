@@ -7,6 +7,8 @@
     <title>Elenco Bed and Breakfast</title>
 </head>
 <body>
-    
+    <div class="main">
+        
+    </div>
 </body>
 </html>
